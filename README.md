@@ -1,7 +1,5 @@
 # Machine-Learning-Basics---Python
-A compilation of illustrative examples for some classical machine learning techniques
-
-This repository contains a collection of pedagogic examples on classical machine learning techniques.
+A compilation of illustrative examples for some classical machine learning techniques and algorithms.
 
 ### Supervised learning
 
