@@ -1,25 +1,34 @@
-# Machine-Learning-Basics---Python
-A compilation of illustrative examples for some classical machine learning techniques and algorithms.
+# Machine Learning Basics in Python 🐍
 
-### Supervised learning
+A compilation of illustrative examples for some classical machine learning techniques and algorithms. Perfect for beginners and practitioners looking to refresh their knowledge. 📊🤖
 
-#### Regression
- * Regression Algorithms - Linear, Polynomial, Lasso, Ridge and SVR
+## Supervised Learning 🎓
 
-#### Classification
- * Decision Trees and Random Forest
- * KNN and Logistic Regression
- * Naive Bayes
- * SVC
+### Regression 📈
+ * **Regression Algorithms**:
+   * Linear Regression
+   * Polynomial Regression
+   * Lasso Regression
+   * Ridge Regression
+   * Support Vector Regression (SVR)
 
-### Unsupervised learning
+### Classification 🏷️
+ * **Decision Trees** and **Random Forest**
+ * **K-Nearest Neighbors (KNN)** and **Logistic Regression**
+ * **Naive Bayes**
+ * **Support Vector Classification (SVC)**
 
-#### Clustering
- * K-means
- * PCA
+## Unsupervised Learning 🧩
 
-### Recommended Systems
- * Item Based Collaborative Filtering
+### Clustering 📊
+ * **K-means Clustering**
+ * **Principal Component Analysis (PCA)**
 
-### Cross Validation
- * K-fold Cross Validation
+## Recommended Systems 🎯
+ * **Item-Based Collaborative Filtering**
+
+## Cross Validation ✅
+ * **K-fold Cross Validation**
+
+## One-Hot Encoding 🔢
+ * Transforming categorical data into a binary matrix representation for machine learning algorithms.
